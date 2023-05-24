@@ -10,7 +10,8 @@ export default {
 
         primary: "#1b1d34",
         secondary: "#141526",
-        darkGreen: "#434743"
+        darkGreen: "#434743",
+        darkRed: "#52322f",
       },
 
     },
